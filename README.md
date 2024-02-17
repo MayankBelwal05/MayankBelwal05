@@ -22,8 +22,10 @@
 <h4 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS, JavaScript,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h4>
 <br>
 
-<img align ="right" alt="coding" width = "300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <span>
+<img align ="right" alt="coding" width = "300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+ <div align="left">
+   
 - 🌱 I’m currently learning **Data Structures and MERN Stack.**
 
 - 👨‍💻 All of my projects are available at <a href="">PortFolio</a>
@@ -36,7 +38,7 @@
 - 📫 How to reach me **mbelwal05@gmail.com**
 
 - 📄 Know about my experiences  <a href="" target="_blank">Resume</a>
-
+</div>
 
 </span>
 <br>
