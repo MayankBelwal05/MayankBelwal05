@@ -1,9 +1,12 @@
 <div align=center>
 <div id="header" >
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="450"/>
+<!--   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="450"/> -->
 <br>
 <br>
 <br>
+  <div>
+  <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mayank Belwal</h1>
+</div>
 <div id="badges">
   <a href="https://https://www.linkedin.com/in/mayank-belwal-6bb808161/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,9 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=MayankBelwal05&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div>
-  <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mayank Belwal</h1>
-</div>
+
 <h4 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS, JavaScript,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h4>
 <br>
 
