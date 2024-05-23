@@ -29,7 +29,8 @@
 
 - 📫 How to reach me **mbelwal05@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1WPqI_zOCIz1zRU2dM0CJ98iLOW6aWbGQ/view?usp=drive_link" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WPqI_zOCIz1zRU2dM0CJ98iLOW6aWbGQ/view?usp=drive_link" target="_blank">Resume</a>
+
 </div>
 
 </span>
