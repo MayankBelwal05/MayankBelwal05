@@ -1,6 +1,7 @@
 <div align=center>
 <div id="header" >
-  <img src="https://drive.google.com/file/d/1DrdEKZVXwDr4lNbAcI7s_Aeea_piovzK/view?usp=sharing" height="450"/>
+
+  <img src="https://github.com/MayankBelwal05/MayankBelwal05/assets/147751671/a41143ca-0e1a-4f96-906d-3b587d42ada8" width="100%"/>
 <br>
 <br>
 <br>
@@ -73,8 +74,8 @@
   <img align="center" width="360px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankBelwal05&theme=dark&show_icons=true&locale=en&layout=compact&card_width=360" alt="MayankBelwal05" />
 
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img align="center" width="495px" height="180px" src="https://github-readme-stats.vercel.app/api?username=MayankBelwal05&theme=dark&show_icons=true&locale=en&card_width=495" alt="MayankBelwal05"/>
-    <img align="center" width="495px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBelwal05&theme=dark&card_width=495" alt="MayankBelwal05" />
+    <img align="center" width="495px" height="180px" src="https://github-readme-stats.vercel.app/api?username=MayankBelwal05&theme=dark&show_icons=true&locale=en&card_width=455" alt="MayankBelwal05"/>
+    <img align="center" width="495px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankBelwal05&theme=dark&card_width=455" alt="MayankBelwal05" />
   </div>
 </div>
 
