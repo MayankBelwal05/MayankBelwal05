@@ -2,13 +2,15 @@
 <div id="header" >
 
   <img src="https://github.com/MayankBelwal05/MayankBelwal05/assets/147751671/a41143ca-0e1a-4f96-906d-3b587d42ada8" width="100%"/>
-<br>
+
   <div>
+<img src="https://komarev.com/ghpvc/?username=MayankBelwal05&style=flat-square&color=blue" alt=""/>
+<br>
   <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mayank Belwal</h1>
 </div>
 <div id="badges">
 </div>
-<img src="https://komarev.com/ghpvc/?username=MayankBelwal05&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 <h4 align="justify">I am a detailed-oriented and Aspiring Full Stack Web Developer specializing in MERN ( HTML,CSS, JavaScript,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h4>
